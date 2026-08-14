@@ -20,3 +20,13 @@ Puis ouvrir http://localhost:8081. Comptes de démonstration : `admin/admin123` 
 ## Architecture
 
 `model` contient les entités JPA, `repository` les accès aux données, `service` la logique métier, `web` les contrôleurs Thymeleaf et `api` les contrôleurs REST.
+
+## Le script SQL est ici :
+
+`schema.sql`
+Il contient :
+
+la création des tables
+les clés étrangères
+les données de test
+les exemples d’étudiants, cours, inscriptions et notes
