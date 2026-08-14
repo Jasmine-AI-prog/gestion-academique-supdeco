@@ -1,0 +1,9 @@
+services:
+  academique:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - academique-data:/app/data
+volumes:
+  academique-data:

@@ -1,0 +1,13 @@
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\api\ApiController.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\config\DataInitializer.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\config\SecurityConfig.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\GestionAcademiqueApplication.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\model\Cours.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\model\Etudiant.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\model\Inscription.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\model\Note.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\repository\CoursRepository.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\repository\EtudiantRepository.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\repository\InscriptionRepository.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\repository\NoteRepository.java
+C:\Users\bmd tech\Documents\Supdeco\L3\Semestre_2\Technologie_JEE\TP_10_complet\src\main\java\sn\supdeco\academique\web\WebController.java
